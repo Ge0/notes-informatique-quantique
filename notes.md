@@ -74,3 +74,4 @@ $$| \alpha |^2 + | \beta |^2  + | \gamma |^2  + | \delta |^2 = 1.$$
 On a donc une superposition de quatre états. Et une fois le qubit observé, il se retrouve soit dans l’état $|00 \rangle$ (qui correspondrait aux bits 00 en informatique classique), $|01 \rangle$ pour les bits 01, $|10 \rangle$ pour les bits 10 et enfin $|11 \rangle$ pour les bits 11.
 
 L’idée, c’est qu’en manipulant d’une traite ce registre de deux **qubits**, on ait fait **un seul calcul pour quatre éventualités**. Ainsi, si on a un registre de $n$ **qubits**, on peut effectuer $2^{n}$ opérations en une seule fois (avec des probabilités plus ou moins grandes sur l’état qui nous intéresse).
+
